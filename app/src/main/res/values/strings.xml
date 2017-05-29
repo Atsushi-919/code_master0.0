@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">code_master</string>
+    <string-array name="root1">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+</string-array>
+</resources>
